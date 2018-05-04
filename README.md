@@ -31,7 +31,7 @@ To execute the program:
 
 Try running the following:
 
-`./fdfl maps/mars.fdf`
+`./fdf maps/mars.fdf`
 
 `./fdf maps/42.fdf`
 

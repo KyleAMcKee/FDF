@@ -1,7 +1,5 @@
 # 42 Project: FDF
 
-<img src="screenshots/finalgrade.png" width="350" />
-
 This program was made to display 3D wireframe models and to become familiar with the MLX library available to students for use with the graphics branch of the program. 
 
 ## Getting Started
